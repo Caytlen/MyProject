@@ -6,4 +6,5 @@ class User
 		string name;
 	public:
 		User(): name {""}{}
+		void getName() { return name;}
 };
