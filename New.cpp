@@ -23,7 +23,7 @@ public:
 
 int main()
 {
-	MyString string("Follow for your dreams");
+	MyString string("Follow");
 	cout << string(16, 6)<<endl; 
 
 	return 0;
