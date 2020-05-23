@@ -1,6 +1,8 @@
 include <iostream>
 
-void main()
+int main()
 {
 	std::cout<<"Hello, world!";
+
+return 0;
 }
